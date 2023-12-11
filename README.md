@@ -49,5 +49,5 @@ Each of these providers have a free tier. You should be able to host it for 0$. 
 </div>
 
 ## Additional resources (2)
-[Tutorial react + graphql + amplify])(https://www.velotio.com/engineering-blog/real-time-react-app-built-using-aws-amplify-graphql)
+[Tutorial react + graphql + amplify](https://www.velotio.com/engineering-blog/real-time-react-app-built-using-aws-amplify-graphql)
 [Rise of Cloud Computing](https://drive.google.com/file/d/1aYJ8sGuvwCN4BK0ywyc-M-Z72rjX3l6i/view?usp=sharing)
